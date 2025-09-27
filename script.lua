@@ -6,7 +6,7 @@ local LocalPlayer = Players.LocalPlayer
 
 -- Config
 local correctKey = "MV1337" -- CHANGE THIS TO YOUR KEY
-local keyLink = "https://discord.gg/VQSdS5Zms5" -- CHANGE THIS
+local keyLink = "https://discord.gg/8EwSkxPEJV" -- CHANGE THIS
 
 local container = ReplicatedStorage:WaitForChild("rbxts_include")
 	:WaitForChild("node_modules")
